@@ -14,7 +14,7 @@ public class Functions{
         System.out.println("decimal of " + myNum + " is = " + decNum);
     }
     public static void main(String args[]){
-        decTobin(101)
+        decTobin(101);
 
     }
 }
