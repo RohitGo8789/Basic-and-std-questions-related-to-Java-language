@@ -1,5 +1,6 @@
 //DECIMAL TO BINARY
 public class Functions{
+    //funtion for conversion of decimal number into binary number
     public static void decTobin(int decNum){
         int myNum = decNum;
         int binNum = 0;
