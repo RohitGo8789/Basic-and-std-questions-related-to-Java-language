@@ -7,7 +7,7 @@ public class JavaBasics2{
         int num = sc.nextInt();
         int fact = 1;
         if(num == 0 && num == 1){
-            System.out.println("The factorial is 1");
+            System.out.println("The factorial is 1"); //Since the factorial of 0 and 1 is always 1
         }else{
             for(int i = 1; i <= num; i++){
                 fact *= i;
