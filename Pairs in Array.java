@@ -12,6 +12,7 @@ public class PairsInArray {
         }
         System.out.println("Total pairs: " + totalPairs);
     }
+    // main function
     public static void main(String args[]){
         int a[] = {2,4,6,8,10};
         System.out.println("Pairs of elements in array are: ");
