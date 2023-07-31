@@ -1,4 +1,4 @@
-//check even or not
+// check even or not
 public class Functions{
     public static boolean isEven(int n){
         if(n % 2 == 0){
