@@ -1,4 +1,4 @@
-//For a given String convert each of the first letter of each word to UPPERCASE 
+// For a given String convert each of the first letter of each word to UPPERCASE 
 public class LettersToUppercase {
     public static String toUpperCase(String str){
         StringBuilder sb = new StringBuilder("");
