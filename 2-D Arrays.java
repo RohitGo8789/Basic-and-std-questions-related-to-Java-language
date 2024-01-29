@@ -1,4 +1,4 @@
-// Creation of 2-D arrays
+//Creation of 2-D arrays
 import java.util.*;
 public class Matrices {
     public static void main(String args[]){
